@@ -102,7 +102,7 @@
 - **English:** B2 (Upper Intermediate)
 
 ### Technical & Professional Skills
-- **Programming:** Golang (Go), SQL
+- **Programming:** Golang (Go)
 - **Databases:** PostgreSQL, Elasticsearch, ClickHouse, Redis, ArangoDB, NoSQL
 - **Messaging/Streaming:** Apache Kafka, RabbitMQ, RedPanda, gRPC
 - **APIs:** REST API, WebSocket
