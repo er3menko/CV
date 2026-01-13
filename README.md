@@ -18,7 +18,7 @@
 ### T-Bank, Moscow
 
 - **Industry:** Information Technology, System Integration, Internet, Financial Sector, Banking
-- **Position:** Lead Golang Developer
+- **Position:** Senior Golang Developer
 - **Period:** November 2023 — Present (2 years 3 months)
 
 #### Project: Search Engine for a Hotel Booking Service
@@ -49,7 +49,7 @@
 ### Kufar, Minsk
 
 - **Industry:** Information Technology, Internet, Retail/E-commerce
-- **Position:** Lead Golang Developer
+- **Position:** Senior Golang Developer
 - **Period:** July 2022 — November 2023 (1 year 5 months)
 
 #### Project: Daily Accommodation Booking Service
